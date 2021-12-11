@@ -1,6 +1,7 @@
 {
   "name": "psa-demo-site",
   "version": "0.1.0",
+  "homepage": "https://arielrezinn.github.io/rpse-100-psa-demo-site",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.4",
