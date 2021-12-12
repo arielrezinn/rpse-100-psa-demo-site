@@ -12,7 +12,7 @@ ReactDOM.render(
           <Box overflow={"scroll"} fill={true}>
             <Heading level={1} size='small' textAlign='center' margin={{ vertical: "small" }}>What is this?</Heading>
             <Paragraph textAlign='center' size='large' fill={true} margin={{ vertical: "small", horizontal: "medium" }}>
-              This is a website created by Ariel Rezin for use in an assignment for RPSE 100 at the University of Wisconsin-Madison.
+              This is a website created by Ariel Rezin for use in <Anchor href="https://youtu.be/uVDxSZiQc3I" label="an assignment" /> for RPSE 100 at the University of Wisconsin-Madison.
             </Paragraph>
             <Paragraph textAlign='center' size='large' fill={true} margin={{ vertical: "small", horizontal: "medium" }}>
               Due to time constraints, the site has not been fully tested for accessibility errors and is not WCAG 2.1 AA compliant.
