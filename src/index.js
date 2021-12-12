@@ -20,7 +20,7 @@ ReactDOM.render(
             </Paragraph>
             <Paragraph textAlign='center' size='large' fill={true} margin={{ vertical: "small", horizontal: "medium" }}>
               Please visit Ariel's <Anchor href="https://arielrezin.com" label="personal website" /> for a11y resources or to get in touch with them.
-              Otherwise, if you're interested, you can view this code behind this project on <Anchor href="https://github.com/arielrezinn/rpse-100-psa-demo-site" label="Github" />.
+              Otherwise, if you're interested, you can view the code behind this project on <Anchor href="https://github.com/arielrezinn/rpse-100-psa-demo-site" label="Github" />.
             </Paragraph>
           </Box>
         </div>
